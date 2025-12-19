@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on **High-quality casual mobile games**
 - ⚡ **Specialties:** Gameplay Programming, Performance Optimization, and AI Logic
-- 🤝 **I'm looking to collaborate on:** Innovative 3D & VR Game Projects
 - 📫 How to reach me: **unity.bhavik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
