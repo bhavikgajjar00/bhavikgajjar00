@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavik Gajjar</h1>
-<h3 align="center">A passionate Unity Game Developer</h3>
+<h3 align="center">A passionate Game Developer</h3>
 
 <p align="center">
  <em>"I believe that while we can't always be superheroes in real life, we can create those experiences in games."</em>
